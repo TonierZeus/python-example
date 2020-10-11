@@ -12,7 +12,7 @@ def say_what():
 
 def main():
     hello(say_what())
-    print(xdd)
+    print('xdd')
     return 0
 
 
